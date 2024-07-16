@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://scenoman.github.io/sitemap
+Sitemap: https://scenoman.github.io/app/sitemap
+Sitemap: https://scenoman.github.io/assets/sitemap
+Sitemap: https://scenoman.github.io/css/sitemap
+Sitemap: https://scenoman.github.io/includes/sitemap
+Sitemap: https://scenoman.github.io/item/sitemap
+Sitemap: https://scenoman.github.io/src/sitemap
